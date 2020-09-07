@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.kasemabouali.twa",
+    "sha256_cert_fingerprints":
+    ["7D:DA:AA:04:20:4B:DA:13:BE:52:70:D5:A6:83:51:D8:54:FE:56:DD:40:F0:EA:54:CA:10:54:49:63:FF:29:93"]
+  }
+}]
